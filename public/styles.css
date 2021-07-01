@@ -1,0 +1,15 @@
+.style-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 200px);
+  grid-template-rows: auto;
+  column-gap: 0.5em;
+}
+
+.style-1 img {
+  height: 5em;
+  width: auto;
+  border-radius: 1em;
+}
+.style-1 h2 {
+  color: blue;
+}
